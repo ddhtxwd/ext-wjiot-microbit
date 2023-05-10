@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "WJ_iot",
+		"en": "WJ_iot"
+	},
+	"description": {
+		"zh-cn": "WJ_iot",
+		"en": "WJ_iot"
+	},
+	"author": "WJ_iot",
+	"email": "WJ_iot",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "WJ_iot",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.3",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.3",
+			"board": ["microbit"],
+			"main": "main.ts"
+		}
+	}
+}
